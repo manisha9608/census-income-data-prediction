@@ -1,1 +1,1 @@
-# census-income-data-prediction
+# Data prediction
